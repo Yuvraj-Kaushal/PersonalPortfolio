@@ -54,6 +54,11 @@ const Skills = () => {
                   <p className='my-4'>Tailwind</p>
               </div>
           </div>
+          <div className='flex justify-end italic text-sm cursor-pointer hover:text-pink-600'>
+        <a href='https://drive.google.com/drive/folders/1CeOuT_X6OwL6r8GcNM1mZvvbUmp2KDHh?usp=sharing'>
+              <h1>View Certifications...</h1>
+              </a>
+            </div>
       </div>
     </div>
   );
