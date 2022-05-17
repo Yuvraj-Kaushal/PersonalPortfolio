@@ -187,11 +187,7 @@ const Projects = () => {
             </div>
           </div>
         </div>
-        <div className='flex justify-end italic text-sm pt-4 cursor-pointer hover:text-pink-600'>
-        <a href='https://github.com/Yuvraj-Kaushal?tab=repositories'>
-              <h1>More Projects...</h1>
-              </a>
-            </div>
+        
       </div>
     </div>
   );
