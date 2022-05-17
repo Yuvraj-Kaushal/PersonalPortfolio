@@ -20,7 +20,7 @@ const About = () => {
                 , nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>Hello! I'm Yuvraj, I am a self-motivated Frontend Developer and a person slighty obsessed for code quality. I love to explore and learn new thing. Currently, I'm learning the new Web3 Technology as well as I'm very close to become a full stack developer. If I'll be hired by you then it would be a great pleasure for me. I’m currently looking for opportunities.</p>  
+              <p>Hello! I'm Yuvraj, I am a self-motivated Frontend Developer and a person slighty obsessed for code quality. I love to explore and learn new things. I have done training in Cyber Security and also have a very good knowledge of ethical hacking. Currently, I'm learning the new Web3 Technology as well as I'm very close to become a full stack developer. If I'll be hired by you then it would be a great pleasure for me. I’m currently looking for opportunities.</p>  
             </div>
           </div>
       </div>
